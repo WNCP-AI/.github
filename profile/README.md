@@ -1,9 +1,7 @@
 # WNCP AI
-
-![WNCP AI Banner](https://via.placeholder.com/800x200/1e3a8a/ffffff?text=WNCP+AI+-+Boutique+AI+Consulting)
+<img src="https://www.wncp.ai/images/wncp-logo-dark.png" alt="WNCP AI Banner" width="120px">
 
 ## About WNCP AI
-
 **WNCP AI** is a boutique AI consulting firm based in Washington, DC, specializing in cutting-edge artificial intelligence solutions for enterprises. We are dedicated to transforming businesses through strategic AI implementation, accelerated development, and comprehensive business transformation initiatives.
 
 Our mission is to bridge the gap between AI innovation and practical business applications, helping organizations unlock the full potential of artificial intelligence technologies.
@@ -38,25 +36,3 @@ Our **resume-builder-project-example** showcases our expertise in creating intel
 - **Washington DC Based**: Deep understanding of government, policy, and enterprise landscapes
 - **Proven Expertise**: Track record of successful AI implementations across various industries
 - **End-to-End Solutions**: From strategy to implementation, we support your entire AI journey
-
-## 📍 Contact Information
-
-**Website**: [www.wncp.ai](https://www.wncp.ai)
-
-**Email**: [hello@wncp.ai](mailto:hello@wncp.ai)
-
-**Location**: Washington, DC Area
-
-**LinkedIn**: [company/wncp-ai](https://www.linkedin.com/company/wncp-ai)
-
----
-
-## 🤝 Let's Connect
-
-Ready to transform your business with AI? We'd love to hear from you!
-
-- 📧 **General Inquiries**: [hello@wncp.ai](mailto:hello@wncp.ai)
-- 🌐 **Learn More**: [www.wncp.ai](https://www.wncp.ai)
-- 💼 **Business Partnerships**: Connect with us on [LinkedIn](https://www.linkedin.com/company/wncp-ai)
-
-*Empowering enterprises through intelligent AI solutions* 🚀
